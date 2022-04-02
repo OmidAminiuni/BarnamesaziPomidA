@@ -55,3 +55,4 @@ public class info {
     public void setJob(String job) {
         this.job = job;
     }
+}
